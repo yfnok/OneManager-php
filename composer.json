@@ -1,5 +1,6 @@
 {
     "require": {
+        "doctrine/cache": "1.5.2",
         "ext-bcmath": "*"
     }
 }
