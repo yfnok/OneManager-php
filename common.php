@@ -42,6 +42,7 @@ $EnvConfigs = [
     'globalHeadMdUrl'   => 0b011,
     'globalReadmeMdUrl' => 0b011,
     'globalFootOmfUrl'  => 0b011,
+    'bcmathUrl'         => 0b011,
 
     'Driver'            => 0b100,
     'client_id'         => 0b100,
